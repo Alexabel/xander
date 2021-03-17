@@ -471,7 +471,7 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  width: 80%;
+  width: -webkit-fill-available;
   height: 100%;
   background-repeat: no-repeat;
   background-position: center;
